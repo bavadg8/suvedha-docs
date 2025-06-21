@@ -1,16 +1,8 @@
-title: Suvedha Docs
-description: Mojo V3, FPGA tutorials, and notes
+title: Bava Docs
+description: Tutorials and Engineering Materials
 theme: just-the-docs
 
-# Optional but recommended:
-url: https://bavadg8.github.io
-baseurl: /suvedha-docs # <-- only if your repo is NOT named bavadg8.github.io
+url: https://bavadg8.github.io/suvedha-docs
 
-# Enable search
-search_enabled: true
-
-gem "just-the-docs"
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/bavagd8/suvedha-docs
