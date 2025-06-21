@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Suvedha Docs
+description: Mojo V3, FPGA tutorials, and notes
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# Optional but recommended:
+url: https://bavadg8.github.io
+baseurl: /suvedha-docs # <-- only if your repo is NOT named bavadg8.github.io
+
+# Enable search
+search_enabled: true
+
+gem "just-the-docs"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
